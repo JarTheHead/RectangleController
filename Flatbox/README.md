@@ -1,5 +1,5 @@
 # Flatbox
-These cases are modified versions of the Flatbox originally by [jfedor](https://github.com/jfedor2/flatbox). This project was originally inspired by SGF Devices's [Bridget](https://github.com/sgfdevices/Bridget) and uses their designed buttons and heatset insert design.
+These cases are modified versions of the Flatbox originally by [jfedor](https://github.com/jfedor2/flatbox). This project was originally inspired by SGF Devices's [Bridget](https://github.com/sgfdevices/Bridget) and remixes their designed buttons and heatset insert design.
 
 ![Top](./Photos/Top.jpg)
 
