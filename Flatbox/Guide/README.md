@@ -14,7 +14,7 @@ Full Documentation: [https://gp2040-ce.info/#/usage](https://gp2040-ce.info/#/us
 
 # Flatbox Layout
 
-![Flatbox Layout.svg](../Photos/Side.jpg/Flatbox_Layout.svg)
+![Flatbox Layout.svg](../Photos/Flatbox_Layout.svg)
 
 # Advanced Web Configuration
 
