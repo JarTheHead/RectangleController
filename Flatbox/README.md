@@ -15,8 +15,8 @@ QTY | Name | Source | Alternative
 ------- | ------------------------- | --------------------- | ---------------------
 1 | Case Top | 3D printed | N/A
 1 | Case Bottom | 3D printed | N/A
-11 | 24mm Button | 3D printed | N/A
-1 | 30mm Button | 3D printed | N/A
+11 | Small Button | 3D printed | [Junk Food Arcades](https://junkfoodarcades.com/collections/micro-accessories)
+1 | Large Button | 3D printed | [Junk Food Arcades](https://junkfoodarcades.com/collections/micro-accessories)
 12 | Kailh Choc Switches | [Mechanical Keyboards](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6337) | [Aliexpress](https://www.aliexpress.us/item/3256804880270570.html)
 1 | [PCB](https://github.com/jfedor2/flatbox/tree/master) | [JLCPCB](https://jlcpcb.com) | [PCBWay](https://www.pcbway.com)
 1 | REV3 ONLY: [Brook PS3/PS4 Board](https://www.brookaccessory.com/detail/58690501) | [Amazon](https://www.amazon.com/Brook-PC-Fight-Board-Fighting-Function/dp/B01A29YQ1M) | [FocusAttack](https://focusattack.com/brook-ps3-ps4-fight-board-pcba)
